@@ -10,3 +10,4 @@ Python-based workshop describing and exploring APIs for accessing publicly avail
 1. Scrapeing data from HTML, automating downloads, spidering
 
 Lead in to SQL workshop the following week - importing data & formatting as CSV or other tabular.
+Refer back to vis in Python workshop
