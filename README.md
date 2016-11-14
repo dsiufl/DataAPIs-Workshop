@@ -5,5 +5,8 @@ Python-based workshop describing and exploring APIs for accessing publicly avail
 
 1. Discuss formats in which data is made availible: closed formats, single files, web pages, figures & tables, databases, APIs
 1. Python library for accessing a data resource - best case, figure, queryies
+1. Where to put JSON & HTTP response codes
 1. Requests library for accessing REST APIs (or other APIs) directly
 1. Scrapeing data from HTML, automating downloads, spidering
+
+Lead in to SQL workshop the following week - importing data & formatting as CSV or other tabular.
