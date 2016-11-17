@@ -16,3 +16,5 @@ Refer back to vis in Python workshop
 List of typical urban analytics problems
 
 List of Gainesville-specific data/questions
+
+http://introtopython.org/visualization_earthquakes.html
