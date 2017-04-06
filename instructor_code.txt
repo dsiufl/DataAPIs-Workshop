@@ -1,0 +1,37 @@
+import requests
+r = requests.get(api_url)
+gru_data = r.json()
+
+print(type(gru_data))
+print(gru_data)
+
+========================
+
+print(gru_data[0]["location_1"])
+
+========================
+
+gru_dataframe = pd.read_json(api_url)
+gru_dataframe.head(2)
+
+========================
+
+appraiser_data = pd.concat([data1, data2, data3, data4, data5])
+appraiser_data.head()
+
+========================
+
+appraiser_data.hist("TotSqFt")
+
+========================
+
+google_api_key = read_key("google.key")
+
+========================
+
+import geocoder
+
+g = geocoder.google("1604 NW 21ST AVE GAINESVILLE FL 32605-4062", 
+                    key=google_api_key)
+g.json
+
